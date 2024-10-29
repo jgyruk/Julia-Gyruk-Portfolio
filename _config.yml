@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Julia Gyruk Portfolio"
+name: "Portfolio for Julia Gyruk"
+email: "gyruk2006@yahoo.com"
+url: "https://jgyruk.github.io"
+baseurl: "/Julia-Gyruk-Portfolio"
+repository: "jgyruk/Julia-Gyruk-Portfolio"
 header:
   image: /assets/images/banner-husky.jpg
 
